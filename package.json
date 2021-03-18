@@ -1,19 +1,15 @@
 {
   "name": "atom-figlet",
   "main": "./lib/atom-figlet",
-  "version": "0.2.0",
+  "version": "0.0.0",
+  "author": "elliottomlinson",
   "description": "convert text to ascii-art (FIGlet)",
   "keywords": [
+    "art",
+    "text",
+    "ascii",
     "figlet",
-    "FIGlet",
     "ascii-art",
-    "text art",
-    "ascii art",
-    "figlet.js",
-    "atom-figlet",
-    "atom figlet",
-    "make-ascii",
-    "make-text"
   ],
   "activationCommands": {
     "atom-workspace": "atom-figlet:convert"
