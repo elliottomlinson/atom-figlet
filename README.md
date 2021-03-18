@@ -1,7 +1,7 @@
-![ver](https://img.shields.io/badge/dynamic/json?color=blue&label=version&query=version&url=https%3A%2F%2Fraw.githubusercontent.com%2Felliottomlinson%2Fatom-figlet%2Fmaster%2Fpackage.json)
+![ver](https://img.shields.io/badge/dynamic/json?color=blue&label=version&query=version&url=https%3A%2F%2Fraw.githubusercontent.com%2Felliottomlinson%2Fatom-figlet%2Fmaster%2Fpackage.json) ![tag](https://travis-ci.com/elliottomlinson/atom-figlet.svg?branch=master)
 
 # atom-figlet
-an atom package for converting <mark>selected</mark> text to ascii-art
+an atom package for converting <mark><pre>selected</pre></mark> text to ascii-art
 
 ```
               ___                  __              __     
