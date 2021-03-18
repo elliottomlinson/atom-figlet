@@ -12,7 +12,7 @@
       "label": "Packages",
       "submenu": [
         {
-          "label": "Figlet",
+          "label": "FIGlet",
           "submenu": [
             {
               "label": "Convert to FIGlet",
