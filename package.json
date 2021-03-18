@@ -1,0 +1,52 @@
+{
+  "name": "atom-figlet",
+  "main": "./lib/atom-figlet",
+  "version": "0.0.0",
+  "description": "convert text to ascii-art (FIGlet)",
+  "keywords": [
+    "figlet",
+    "FIGlet",
+    "ascii-art",
+    "text art",
+    "ascii art",
+    "figlet.js",
+    "atom-figlet",
+    "atom figlet",
+    "make-ascii",
+    "make-text"
+  ],
+  "activationCommands": {
+    "atom-workspace": "atom-figlet:convert"
+  },
+  "repository": "https://github.com/elliottomlinson/atom-figlet",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "figlet": "1.5.0"
+  },
+  "configSchema": {
+    "font": {
+      "title": "Font",
+      "description": "FIGlet font to use (link to full list and examples in README below)",
+      "type": "string",
+      "default": "Larry 3D",
+      "order": 1
+    },
+    "horizontalLayout": {
+      "title": "Horizontal Layout Parameter",
+      "description": "'default','full','fitted','controlled smushing', or 'universal smushing'",
+      "type": "string",
+      "default": "default",
+      "order": 2
+    },
+    "verticalLayout": {
+      "title": "Vertical Layout Parameter",
+      "description": "'default','full','fitted','controlled smushing', or 'universal smushing'",
+      "type": "string",
+      "default": "default",
+      "order": 3
+    }
+  }
+}

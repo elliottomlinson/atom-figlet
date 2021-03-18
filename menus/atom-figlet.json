@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Convert to FIGlet",
+        "command": "atom-figlet:convert"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "Figlet",
+          "submenu": [
+            {
+              "label": "Convert to FIGlet",
+              "command": "atom-figlet:convert"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
