@@ -1,4 +1,5 @@
-![ver](https://img.shields.io/badge/dynamic/json?color=blue&label=version&query=version&url=https%3A%2F%2Fraw.githubusercontent.com%2Felliottomlinson%2Fatom-figlet%2Fmaster%2Fpackage.json) 
+![ver](https://img.shields.io/badge/dynamic/json?color=blue&label=version&query=version&url=https%3A%2F%2Fraw.githubusercontent.com%2Felliottomlinson%2Fatom-figlet%2Fmaster%2Fpackage.json)
+![downloads](https://img.shields.io/apm/dm/atom-figlet)
 ![build](https://travis-ci.com/elliottomlinson/atom-figlet.svg?branch=master)
 ![license](https://img.shields.io/github/license/elliottomlinson/atom-figlet)
 
