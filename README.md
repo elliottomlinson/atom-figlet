@@ -17,21 +17,6 @@ an atom package for converting **<mark>selected</mark>** text to ascii-art
 ```
 <sub>*Font: 'Larry 3D'*</sub>
 
-### installation
-
----
-
-#### command line
-```sh
-apm install atom-figlet
-```
-#### gui
-
-1. launch atom
-2. use <kbd>ctrl</kbd> + <kbd>,</kbd> on windows and linux or <kbd>cmd</kbd> + <kbd>,</kbd> on mac to enter settings
-3. navigate to the search box under the `install` tab on the left
-4. enter `atom-figlet` and press <kbd>enter</kbd>
-
 ### usage
 
 ---
